@@ -1,0 +1,58 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "user": "Unicorn",
+      "title": "Turning Red",
+      "time": "2022",
+      "content": "Turning Red is a 2022 American computer-animated fantasy comedy film produced by Pixar Animation Studios and distributed by Walt Disney Studios Motion Pictures. The film was directed by Domee Shi, in her feature directorial debut, written by Shi and Julia Cho, and produced by Lindsey Collins.Set in Toronto, Ontario, in 2002, Turning Red follows Meilin Lee, a 13-year-old Chinese-Canadian student who, due to a hereditary curse, transforms into a giant red panda when she expresses any strong emotion. ",
+      "quote": "Don't Hold Back. For Anyone. The Farther You Go, The Prouder I'll Be.",
+      "image": "/image1.jpeg"
+    },
+    {
+      "id": 2,
+      "user": "Unicorn",
+      "title": "Soul",
+      "time": "2020",
+      "content": "The film centers on a music teacher Joe Gardner (Foxx) seeking to reunite his soul and his body after they are separated, just before his big break as a jazz musician.",
+      "quote": "Life Is Full Of Possibilities. You Just Need To Know Where To Look.",
+      "image": "/image2.jpeg"
+    },
+    {
+      "id": 3,
+      "user": "Unicorn",
+      "title": "Dune",
+      "time": "2021",
+      "content": "Dune (titled onscreen as Dune: Part One) is a 2021 American epic science fiction film directed by Denis Villeneuve from a screenplay by Villeneuve, Jon Spaihts, and Eric Roth. It is the first of a two-part adaptation of the 1965 novel by Frank Herbert, primarily covering the first half of the book. Set in the far future, the film follows Paul Atreides as his family, the noble House Atreides, is thrust into a war for the deadly and inhospitable desert planet Arrakis. ",
+      "quote": "You've Proven You Can Rule Yourself. Now You Must Learn To Rule Others, Something None Of Your Ancestors Learnt.",
+      "image": "/image3.jpeg"
+    },
+    {
+      "id": 4,
+      "user": "Unicorn",
+      "title": "The Power of the Dog",
+      "time": "2021",
+      "content": "The Power of the Dog is a 2021 Western psychological drama film written and directed by Jane Campion. It is based on Thomas Savage's 1967 novel of the same title. The film stars Benedict Cumberbatch, Kirsten Dunst, Jesse Plemons, and Kodi Smit-McPhee.Set in Montana, shot mostly within rural Otago, New Zealand, the film is an international co-production among New Zealand, Greece, the United Kingdom, the United States, and Australia. The Power of the Dog covers themes such as love, grief, resentment, jealousy, masculinity, and sexuality.",
+      "quote": "Deliver my soul from the sword; my darling from the power of the dog.",
+      "image": "/image4.jpeg"
+    },
+    {
+      "id": 5,
+      "user": "Unicorn",
+      "title": "Interstellar",
+      "time": "2014",
+      "content": "Interstellar is a 2014 epic science fiction film co-written, directed and produced by Christopher Nolan. It stars Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn, Matt Damon, and Michael Caine. Set in a dystopian future where humanity is struggling to survive, the film follows a group of astronauts who travel through a wormhole near Saturn in search of a new home for mankind.",
+      "quote": "Do not go gentle into that good night; Old age should burn and rave at close of day. Rage, rage against the dying of the light.",
+      "image": "/image5.jpeg"
+    }
+  ],
+  "reviews": [
+    {
+      "movie": "1",
+      "user": "MovieFan",
+      "avatar": "https://via.placeholder.com/100x100/a65858",
+      "text": "Hello I like this movie!",
+      "id": 1
+    }
+  ]
+}
